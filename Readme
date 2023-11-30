@@ -1,0 +1,10 @@
+# Tercera Pre-Entrega Django
+Garlati Mateo 
+
+Este proyecto utiliza Django y sigue el patrón MVT. Aquí se detalla el orden en el que puedes probar las funcionalidades:
+
+1. Ejecuta las migraciones
+2. Crea un superusuario para acceder al panel de administración
+3. Inicia el servidor
+4. Ve al link e inicia sesión en el superusuario creado
+5. Agrega categorías, productos y clientes desde el panel de administración.
